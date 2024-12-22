@@ -7,5 +7,5 @@ function getFormvalue() {
   const lastName = form.elements["lname"].value;  // Access by the name attribute 'lname'
 
   // Display the values using alert
-  alert(`${firstName}\n${lastName}`);
+  alert(`${firstName} ${lastName}`);
 }
