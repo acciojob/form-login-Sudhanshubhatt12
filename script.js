@@ -1,6 +1,5 @@
 function getFormvalue() {
-    //Write your code here
-	/ Get the form element
+   
   const form = document.getElementById("form1");
 
   // Retrieve the values of the First Name and Last Name fields
